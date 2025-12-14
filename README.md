@@ -71,3 +71,9 @@ A lightweight bilingual (EN/中文) text classification PoC that estimates how l
 ## Quick Troubleshooting
 - **Altair rendering**: Ensure versions match `requirements.txt` and open Streamlit in the browser.
 - **Chinese tokenization**: Using char n-grams already supports mixed EN/中文; for finer Chinese features, add jieba/ckip tokenization and switch to word n-grams.
+
+## Result
+<img width="773" height="575" alt="image" src="https://github.com/user-attachments/assets/6faf3db7-e575-4bf9-9191-7c3449bd8987" />
+<img width="731" height="590" alt="image" src="https://github.com/user-attachments/assets/f4bf5d7e-d011-413c-8cd5-bf3ad4f8740a" />
+
+
