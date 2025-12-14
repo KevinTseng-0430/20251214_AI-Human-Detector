@@ -1,6 +1,7 @@
 # AI vs Human Detector (Streamlit, sklearn)
 
 A lightweight bilingual (EN/中文) text classification PoC that estimates how likely a paragraph is AI-generated vs human-written. Streamlit UI, tf-idf + Logistic Regression model, bundled with tiny handcrafted samples (AI-like / Human-like in both languages).
+Streamlit APP: https://kevintseng-0430-20251214-ai-human-detector-app-aq78vk.streamlit.app/
 
 ## Project Structure
 - `app.py`: Main app with data construction, model training, inference, and visualizations.
